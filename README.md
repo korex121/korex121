@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @korex121
-- 👀 I’m interested in  Programming, App Development, Cybersecurity
+- 👀 I’m interested in  Programming, App Development,Software Engineering
 - 🌱 I’m currently learning CSS, JAVA, C++, PYTHON, etc
 - 💞️ I’m looking to collaborate with like minds.
 - 📫 You can reach me on my social media handles.
