@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @korex121
-- 👀 I’m interested in  Programming, App Development,Software Engineering
-- 🌱 I’m currently learning CSS, JAVA, C++, PYTHON, etc
+- 👋 Hi, I’m Korede Olorunsola
+- 👀 I have experience in Backend Engineeering
+- 🌱 I currently use Golang 
 - 💞️ I’m looking to collaborate with like minds.
 - 📫 You can reach me on my social media handles.
 
